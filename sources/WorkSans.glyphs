@@ -1048,8 +1048,8 @@ sub seven.osf by seven.tosf;
 sub eight.osf by eight.tosf;
 sub nine.osf by nine.tosf;
 
-sub cent.BRACKET.202 by cent.tf.BRACKET.202; # for rvrn
-sub dollar.BRACKET.202 by dollar.tf.BRACKET.202; # for rvrn";
+sub cent.BRACKET.varAlt01 by cent.tf.BRACKET.varAlt01; # for rvrn
+sub dollar.BRACKET.varAlt01 by dollar.tf.BRACKET.varAlt01; # for rvrn";
 name = tnum;
 },
 {
@@ -1235,9 +1235,9 @@ name = calt;
 code = "	sub Adieresis by Adieresis.titl;
 	sub Odieresis by Odieresis.titl;
 	sub Udieresis by Udieresis.titl;
-	sub Adieresis.BRACKET.137 by Adieresis.titl.BRACKET.137;
-	sub Odieresis.BRACKET.137 by Odieresis.titl.BRACKET.137;
-	sub Udieresis.BRACKET.137 by Udieresis.titl.BRACKET.137;";
+	sub Adieresis.BRACKET.varAlt01 by Adieresis.titl.BRACKET.varAlt01;
+	sub Odieresis.BRACKET.varAlt01 by Odieresis.titl.BRACKET.varAlt01;
+	sub Udieresis.BRACKET.varAlt01 by Udieresis.titl.BRACKET.varAlt01;";
 name = titl;
 },
 {
